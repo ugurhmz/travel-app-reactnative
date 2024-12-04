@@ -1,22 +1,20 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-const index = () => {
+const bookmarks = () => {
   return (
     <View style={styles.container}>
-      <Text>index</Text>
+      <Text>bookmarks</Text>
     </View>
   );
 };
 
-export default index;
+export default bookmarks;
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    borderWidth: 1,
-    marginBottom: 0,
   },
 });
