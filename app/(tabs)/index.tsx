@@ -11,6 +11,7 @@ import { Stack } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 import Colors from "@/constants/Colors";
 import { useHeaderHeight } from "@react-navigation/elements";
+import CategoryButtons from "../../components/CategoryButtons";
 
 const index = () => {
   const headerHeight = useHeaderHeight();
@@ -52,7 +53,9 @@ const index = () => {
         }}
       ></Stack.Screen>
       <View style={[styles.container, { paddingTop: headerHeight }]}>
-        <Text style={styles.headingText}>Lorem ipmsum doarl qwekjsadk</Text>
+        <Text style={styles.headingText}>
+          Examples of Great Travel Blog Post
+        </Text>
 
         <View style={styles.searchSectionWrapper}>
           <View style={styles.searchBar}>
@@ -69,6 +72,8 @@ const index = () => {
             <Ionicons name="options" size={28} color={Colors.white} />
           </TouchableOpacity>
         </View>
+
+        <CategoryButtons />
       </View>
     </>
   );
@@ -86,7 +91,7 @@ const styles = StyleSheet.create({
     fontSize: 28,
     fontWeight: "800",
     color: Colors.black,
-    marginTop: 12,
+    marginTop: 15,
   },
   searchSectionWrapper: {
     flexDirection: "row",

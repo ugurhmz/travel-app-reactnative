@@ -3,7 +3,7 @@ import React from "react";
 
 const category = () => {
   return (
-    <View style={styles.container}>
+    <View>
       <Text>category</Text>
     </View>
   );
@@ -11,10 +11,4 @@ const category = () => {
 
 export default category;
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
-  },
-});
+const styles = StyleSheet.create({});
