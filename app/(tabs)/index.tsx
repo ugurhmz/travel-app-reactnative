@@ -6,7 +6,7 @@ import {
   Image,
   TextInput,
 } from "react-native";
-import React from "react";
+import React, { useState } from "react";
 import { Stack } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 import Colors from "@/constants/Colors";
@@ -15,6 +15,12 @@ import CategoryButtons from "../../components/CategoryButtons";
 
 const index = () => {
   const headerHeight = useHeaderHeight();
+  const [category, setCategory] = useState("All");
+
+  const onCatChanged = (category: string) => {
+    console.log("category", category);
+    setCategory(category);
+  };
 
   return (
     <>
@@ -73,7 +79,7 @@ const index = () => {
           </TouchableOpacity>
         </View>
 
-        <CategoryButtons />
+        <CategoryButtons onCategoryChanged={onCatChanged} />
       </View>
     </>
   );

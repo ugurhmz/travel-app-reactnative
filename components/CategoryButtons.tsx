@@ -10,7 +10,11 @@ import Colors from "@/constants/Colors";
 import destinationCategories from "@/data/categories";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 
-const CategoryButtons = () => {
+type Props = {
+  onCategoryChanged: (category: string) => void;
+};
+
+const CategoryButtons = ({ onCategoryChanged }: Props) => {
   const itemRef = useRef<(React.ElementRef<typeof TouchableOpacity> | null)[]>(
     []
   );
@@ -25,6 +29,8 @@ const CategoryButtons = () => {
     selected?.measure((x) => {
       scrollRef.current?.scrollTo({ x: x, y: 0, animated: true });
     });
+
+    onCategoryChanged(destinationCategories[index].title);
   };
 
   return (
