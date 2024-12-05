@@ -1,0 +1,189 @@
+[
+  {
+    "id": "1",
+    "name": "Beaches Destination 1",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.q_qI2XASX_gNerRdFaQe6AHaLG&pid=Api",
+    "description": "Explore the serene beaches with golden sands and clear waters.",
+    "rating": 4.5,
+    "price": "$500",
+    "duration": "7 days",
+    "location": "Malibu, USA",
+    "category": "Beaches"
+  },
+  {
+    "id": "2",
+    "name": "Mountains Destination 2",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.eVuWkdkUyPFzvt4uSsgN5gHaEh&pid=Api",
+    "description": "Experience the majestic mountains and breathtaking views.",
+    "rating": 4.7,
+    "price": "$750",
+    "duration": "5 days",
+    "location": "Aspen, USA",
+    "category": "Mountains"
+  },
+  {
+    "id": "3",
+    "name": "Cities Destination 3",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.8mIAgcYf7eD9eLLLZLNaNQHaE7&pid=Api",
+    "description": "Discover the vibrant city life with rich culture and history.",
+    "rating": 4.3,
+    "price": "$600",
+    "duration": "4 days",
+    "location": "Paris, France",
+    "category": "Cities"
+  },
+  {
+    "id": "4",
+    "name": "Forests Destination 4",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.N3SbYlont4ma5RmFBkTBsAHaEJ&pid=Api",
+    "description": "Immerse yourself in the tranquil forests and lush greenery.",
+    "rating": 4.6,
+    "price": "$400",
+    "duration": "6 days",
+    "location": "Black Forest, Germany",
+    "category": "Forests"
+  },
+  {
+    "id": "5",
+    "name": "Lakes Destination 5",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.q_qI2XASX_gNerRdFaQe6AHaLG&pid=Api",
+    "description": "Relax by the picturesque lakes with stunning surroundings.",
+    "rating": 4.4,
+    "price": "$550",
+    "duration": "5 days",
+    "location": "Lake Tahoe, USA",
+    "category": "Lakes"
+  },
+  {
+    "id": "6",
+    "name": "Historical Sites Destination 6",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.eVuWkdkUyPFzvt4uSsgN5gHaEh&pid=Api",
+    "description": "Explore ancient historical sites and uncover rich heritage.",
+    "rating": 4.8,
+    "price": "$700",
+    "duration": "3 days",
+    "location": "Rome, Italy",
+    "category": "Historical Sites"
+  },
+  {
+    "id": "7",
+    "name": "National Parks Destination 7",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.8mIAgcYf7eD9eLLLZLNaNQHaE7&pid=Api",
+    "description": "Discover the diverse wildlife and landscapes of national parks.",
+    "rating": 4.7,
+    "price": "$650",
+    "duration": "7 days",
+    "location": "Yellowstone, USA",
+    "category": "National Parks"
+  },
+  {
+    "id": "8",
+    "name": "Islands Destination 8",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.N3SbYlont4ma5RmFBkTBsAHaEJ&pid=Api",
+    "description": "Experience the tropical paradise on exotic islands.",
+    "rating": 4.5,
+    "price": "$800",
+    "duration": "6 days",
+    "location": "Bali, Indonesia",
+    "category": "Islands"
+  },
+  {
+    "id": "9",
+    "name": "Deserts Destination 9",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.q_qI2XASX_gNerRdFaQe6AHaLG&pid=Api",
+    "description": "Embark on an adventure through vast and stunning deserts.",
+    "rating": 4.2,
+    "price": "$550",
+    "duration": "5 days",
+    "location": "Sahara, Morocco",
+    "category": "Deserts"
+  },
+  {
+    "id": "10",
+    "name": "Beaches Destination 10",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.eVuWkdkUyPFzvt4uSsgN5gHaEh&pid=Api",
+    "description": "Unwind on beautiful beaches with crystal clear waters.",
+    "rating": 4.6,
+    "price": "$620",
+    "duration": "7 days",
+    "location": "Phuket, Thailand",
+    "category": "Beaches"
+  },
+  {
+    "id": "11",
+    "name": "Mountains Destination 11",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.8mIAgcYf7eD9eLLLZLNaNQHaE7&pid=Api",
+    "description": "Hike through scenic mountain trails and enjoy panoramic views.",
+    "rating": 4.7,
+    "price": "$700",
+    "duration": "6 days",
+    "location": "Swiss Alps, Switzerland",
+    "category": "Mountains"
+  },
+  {
+    "id": "12",
+    "name": "Cities Destination 12",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.N3SbYlont4ma5RmFBkTBsAHaEJ&pid=Api",
+    "description": "Experience the bustling city life with endless attractions.",
+    "rating": 4.5,
+    "price": "$650",
+    "duration": "5 days",
+    "location": "Tokyo, Japan",
+    "category": "Cities"
+  },
+  {
+    "id": "13",
+    "name": "Forests Destination 13",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.zVkAogJA72XxjGX1OuAAWwHaEK&pid=Api",
+    "description": "Wander through enchanting forests filled with wildlife.",
+    "rating": 4.9,
+    "price": "$480",
+    "duration": "4 days",
+    "location": "Amazon Rainforest, Brazil",
+    "category": "Forests"
+  },
+  {
+    "id": "14",
+    "name": "Lakes Destination 14",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.LMS_1TEhSbE4zbOnGj0l_gHaE8&pid=Api",
+    "description": "Relax beside pristine lakes with serene environments.",
+    "rating": 4.6,
+    "price": "$520",
+    "duration": "6 days",
+    "location": "Lake Como, Italy",
+    "category": "Lakes"
+  },
+  {
+    "id": "15",
+    "name": "Historical Sites Destination 15",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.lf-l_ceLnXMqQ3s-xH1fKgHaE8&pid=Api",
+    "description": "Explore historical landmarks with centuries-old architecture.",
+    "rating": 4.8,
+    "price": "$750",
+    "duration": "3 days",
+    "location": "Athens, Greece",
+    "category": "Historical Sites"
+  },
+  {
+    "id": "16",
+    "name": "National Parks Destination 16",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.KK7IHAizvGZLTIb-hRU0IgHaEK&pid=Api",
+    "description": "Experience untouched wilderness in breathtaking national parks.",
+    "rating": 4.7,
+    "price": "$680",
+    "duration": "7 days",
+    "location": "Banff National Park, Canada",
+    "category": "National Parks"
+  },
+  {
+    "id": "17",
+    "name": "Deserts Destination 17",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.N3SbYlont4ma5RmFBkTBsAHaEJ&pid=Api",
+    "description": "Marvel at the beauty of endless dunes and desert landscapes.",
+    "rating": 4.3,
+    "price": "$450",
+    "duration": "5 days",
+    "location": "Dubai Desert, UAE",
+    "category": "Deserts"
+  }
+]
