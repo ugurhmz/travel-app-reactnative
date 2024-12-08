@@ -83,7 +83,7 @@ const index = () => {
 
         <CategoryButtons onCategoryChanged={onCatChanged} />
 
-        <Listings listings={listingData} />
+        <Listings listings={listingData} category={category} />
       </View>
     </>
   );
