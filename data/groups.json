@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Global Adventures",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/65/81/19/caption.jpg?w=1200&h=-1&s=1",
+    "rating": 4.5,
+    "reviews": 120
+  },
+  {
+    "id": "2",
+    "name": "Wanderlust Experts",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/travel-agency-logo%2C-travel-company-logo-design-template-a84d60de705a96c5fdb033b1acca7966_screen.jpg?ts=1667975222",
+    "rating": 4.7,
+    "reviews": 98
+  },
+  {
+    "id": "3",
+    "name": "Dream Escapes",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/travel-agency-logo-design-template-dc7b0514e8ac16dd3e2cc83ad6814960_screen.jpg?ts=1663755334",
+    "rating": 4.6,
+    "reviews": 110
+  },
+  {
+    "id": "4",
+    "name": "Journey Designers",
+    "image": "https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616431.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1725408000&semt=ais_hybrid",
+    "rating": 4.8,
+    "reviews": 95
+  },
+  {
+    "id": "5",
+    "name": "Travel Genie Co.",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/travel-agency-logo-design-template-37d554bb240f3e39c5e560f05455b2b8_screen.jpg?ts=1663755415",
+    "rating": 4.9,
+    "reviews": 105
+  },
+  {
+    "id": "6",
+    "name": "Voyage Ventures",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/65/81/19/caption.jpg?w=1200&h=-1&s=1",
+    "rating": 4.4,
+    "reviews": 115
+  },
+  {
+    "id": "7",
+    "name": "Explore More",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/travel-agency-logo%2C-travel-company-logo-design-template-a84d60de705a96c5fdb033b1acca7966_screen.jpg?ts=1667975222",
+    "rating": 4.7,
+    "reviews": 100
+  },
+  {
+    "id": "8",
+    "name": "Pathfinders Travel",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/travel-agency-logo-design-template-dc7b0514e8ac16dd3e2cc83ad6814960_screen.jpg?ts=1663755334",
+    "rating": 4.6,
+    "reviews": 108
+  },
+  {
+    "id": "9",
+    "name": "Adventure Architects",
+    "image": "https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616431.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1725408000&semt=ais_hybrid",
+    "rating": 4.5,
+    "reviews": 112
+  },
+  {
+    "id": "10",
+    "name": "Next Horizon Planners",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/travel-agency-logo-design-template-37d554bb240f3e39c5e560f05455b2b8_screen.jpg?ts=1663755415",
+    "rating": 4.8,
+    "reviews": 99
+  },
+  {
+    "id": "11",
+    "name": "Discover Destinations",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/65/81/19/caption.jpg?w=1200&h=-1&s=1",
+    "rating": 4.7,
+    "reviews": 104
+  },
+  {
+    "id": "12",
+    "name": "Expedition Elite",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/travel-agency-logo%2C-travel-company-logo-design-template-a84d60de705a96c5fdb033b1acca7966_screen.jpg?ts=1667975222",
+    "rating": 4.9,
+    "reviews": 102
+  }
+]
