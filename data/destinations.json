@@ -3,10 +3,10 @@
     "id": "1",
     "name": "Beaches Destination 1",
     "image": "https://tse4.mm.bing.net/th?id=OIP.q_qI2XASX_gNerRdFaQe6AHaLG&pid=Api",
-    "description": "Explore the serene beaches with golden sands and clear waters.",
+    "description": "Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.Explore the serene beaches with golden sands and clear waters.",
     "rating": 4.5,
     "price": "$500",
-    "duration": "7 days",
+    "duration": "7",
     "location": "Malibu, USA",
     "category": "Beaches"
   },
@@ -17,7 +17,7 @@
     "description": "Experience the majestic mountains and breathtaking views.",
     "rating": 4.7,
     "price": "$750",
-    "duration": "5 days",
+    "duration": "5",
     "location": "Aspen, USA",
     "category": "Mountains"
   },
@@ -28,7 +28,7 @@
     "description": "Discover the vibrant city life with rich culture and history.",
     "rating": 4.3,
     "price": "$600",
-    "duration": "4 days",
+    "duration": "4",
     "location": "Paris, France",
     "category": "Cities"
   },
@@ -39,7 +39,7 @@
     "description": "Immerse yourself in the tranquil forests and lush greenery.",
     "rating": 4.6,
     "price": "$400",
-    "duration": "6 days",
+    "duration": "6",
     "location": "Black Forest, Germany",
     "category": "Forests"
   },
@@ -50,7 +50,7 @@
     "description": "Relax by the picturesque lakes with stunning surroundings.",
     "rating": 4.4,
     "price": "$550",
-    "duration": "5 days",
+    "duration": "5",
     "location": "Lake Tahoe, USA",
     "category": "Lakes"
   },
@@ -61,7 +61,7 @@
     "description": "Explore ancient historical sites and uncover rich heritage.",
     "rating": 4.8,
     "price": "$700",
-    "duration": "3 days",
+    "duration": "3",
     "location": "Rome, Italy",
     "category": "Historical Sites"
   },
@@ -72,7 +72,7 @@
     "description": "Discover the diverse wildlife and landscapes of national parks.",
     "rating": 4.7,
     "price": "$650",
-    "duration": "7 days",
+    "duration": "7",
     "location": "Yellowstone, USA",
     "category": "National Parks"
   },
@@ -83,7 +83,7 @@
     "description": "Experience the tropical paradise on exotic islands.",
     "rating": 4.5,
     "price": "$800",
-    "duration": "6 days",
+    "duration": "6",
     "location": "Bali, Indonesia",
     "category": "Islands"
   },
@@ -94,7 +94,7 @@
     "description": "Embark on an adventure through vast and stunning deserts.",
     "rating": 4.2,
     "price": "$550",
-    "duration": "5 days",
+    "duration": "5",
     "location": "Sahara, Morocco",
     "category": "Deserts"
   },
@@ -105,7 +105,7 @@
     "description": "Unwind on beautiful beaches with crystal clear waters.",
     "rating": 4.6,
     "price": "$620",
-    "duration": "7 days",
+    "duration": "7",
     "location": "Phuket, Thailand",
     "category": "Beaches"
   },
@@ -116,7 +116,7 @@
     "description": "Hike through scenic mountain trails and enjoy panoramic views.",
     "rating": 4.7,
     "price": "$700",
-    "duration": "6 days",
+    "duration": "6",
     "location": "Swiss Alps, Switzerland",
     "category": "Mountains"
   },
@@ -127,7 +127,7 @@
     "description": "Experience the bustling city life with endless attractions.",
     "rating": 4.5,
     "price": "$650",
-    "duration": "5 days",
+    "duration": "5",
     "location": "Tokyo, Japan",
     "category": "Cities"
   },
@@ -138,7 +138,7 @@
     "description": "Wander through enchanting forests filled with wildlife.",
     "rating": 4.9,
     "price": "$480",
-    "duration": "4 days",
+    "duration": "4",
     "location": "Amazon Rainforest, Brazil",
     "category": "Forests"
   },
@@ -149,7 +149,7 @@
     "description": "Relax beside pristine lakes with serene environments.",
     "rating": 4.6,
     "price": "$520",
-    "duration": "6 days",
+    "duration": "6",
     "location": "Lake Como, Italy",
     "category": "Lakes"
   },
@@ -160,7 +160,7 @@
     "description": "Explore historical landmarks with centuries-old architecture.",
     "rating": 4.8,
     "price": "$750",
-    "duration": "3 days",
+    "duration": "3",
     "location": "Athens, Greece",
     "category": "Historical Sites"
   },
@@ -171,7 +171,7 @@
     "description": "Experience untouched wilderness in breathtaking national parks.",
     "rating": 4.7,
     "price": "$680",
-    "duration": "7 days",
+    "duration": "7",
     "location": "Banff National Park, Canada",
     "category": "National Parks"
   },
@@ -182,7 +182,7 @@
     "description": "Marvel at the beauty of endless dunes and desert landscapes.",
     "rating": 4.3,
     "price": "$450",
-    "duration": "5 days",
+    "duration": "5",
     "location": "Dubai Desert, UAE",
     "category": "Deserts"
   }
